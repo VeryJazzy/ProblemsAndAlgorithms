@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class Kaprekar {
 
     public static boolean isKaprekar(int n) {
