@@ -15,6 +15,7 @@ public class lengthOfLongestSubstring {
         return findBiggestSubstring(substringLengths);
     }
 
+
     public int findLengthOfCurrentSubstringBeforeItRepeatsAChar(int i, String s) {
         ArrayList<Character> charList = new ArrayList<Character>();
 
